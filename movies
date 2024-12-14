@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv39ZrglimGEz9K_ZBdQ8D2HtRhRf3iNHNew&s" tvg-name="Action Movie HD" group-title="Movies",KANGUVA
+#EXTINF:-1 tvg-id="movie" tvg-name="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv39ZrglimGEz9K_ZBdQ8D2HtRhRf3iNHNew&s" group-title="Movies",KANGUVA
 http://10.100.100.12/data1/MOVIE%20COLLECTION/SOUTH%20INDIAN/2024/Kanguva%20(2024)%20Dual%20Audio.mkv
 
 #EXTINF:-1 tvg-id="movie1" tvg-name="Action Movie HD" group-title="Movies",AGNI
