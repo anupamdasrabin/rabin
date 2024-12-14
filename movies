@@ -1,0 +1,19 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="movie1" tvg-name="KANGUVA" group-title="Movies",Action Movie HD
+http://10.100.100.12/data1/MOVIE%20COLLECTION/SOUTH%20INDIAN/2024/Kanguva%20(2024)%20Dual%20Audio.mkv
+
+#EXTINF:-1 tvg-id="movie1" tvg-name="AGNI" group-title="Movies",Action Movie HD
+http://10.100.100.12/data1/MOVIE%20COLLECTION/HINDI/2024/Agni%20(2024).mkv
+
+#EXTINF:-1 tvg-id="movie2" tvg-name="Vicky Vidya Ka Woh Wala Video" group-title="Movies",Comedy Movie
+http://10.100.100.12/data1/MOVIE%20COLLECTION/HINDI/2024/Vicky%20Vidya%20Ka%20Woh%20Wala%20Video%20(2024).mkv
+
+#EXTINF:-1 tvg-id="movie3" tvg-name="Drama Movie" group-title="Movies",Drama Movie
+http://example.com/stream/movie3.m3u8
+
+#EXTINF:-1 tvg-id="movie4" tvg-name="Sci-Fi Blockbuster" group-title="Movies",Sci-Fi Blockbuster
+http://example.com/stream/movie4.m3u8
+
+#EXTINF:-1 tvg-id="movie5" tvg-name="Horror Flick" group-title="Movies",Horror Flick
+http://example.com/stream/movie5.m3u8
