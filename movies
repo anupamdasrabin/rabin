@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv39ZrglimGEz9K_ZBdQ8D2HtRhRf3iNHNew&s"group-title="ACTION MOVIES",KANGUVA (2024)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv39ZrglimGEz9K_ZBdQ8D2HtRhRf3iNHNew&s"group-title="ACTION",KANGUVA (2024)
 http://10.100.100.12/data1/MOVIE%20COLLECTION/SOUTH%20INDIAN/2024/Kanguva%20(2024)%20Dual%20Audio.mkv
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAz8QyqgOzdkYQEHIuEO7svM-8Fud0a_SAqw&s"group-title="ACTION MOVIES",AGNI(2024)
@@ -8,3 +8,6 @@ http://10.100.100.12/data1/MOVIE%20COLLECTION/HINDI/2024/Agni%20(2024).mkv
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ8CVRZzSFbRgVXt5r7QrjUvOA1uRUzK1Sfg&s"group-title="COMEDY MOVIES",Vicky Vidya Ka Woh Wala Video (2024)
 http://10.100.100.12/data1/MOVIE%20COLLECTION/ENGLISH/2024/Gladiator%20II%20(2024).mkv
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ8CVRZzSFbRgVXt5r7QrjUvOA1uRUzK1Sfg&s"group-title="COMEDY",BABU
+http://10.100.100.12/data1/MOVIE%20COLLECTION/SOUTH%20INDIAN/2024/Babu%20(2024).mkv
