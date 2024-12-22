@@ -1,16 +1,22 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv39ZrglimGEz9K_ZBdQ8D2HtRhRf3iNHNew&s"group-title="ACTION",KANGUVA (2024)
-http://10.100.100.12/data1/MOVIE%20COLLECTION/SOUTH%20INDIAN/2024/Babu%20(2024).mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTVmNDVhMDEtNDMyNy00NTY0LWJkNzEtY2E5ZTVlZDRmYWY3XkEyXkFqcGc@._V1_.jpg"group-title="MARCO",MARCO (2024)
+http://10.100.100.12/data1/MOVIE%20COLLECTION/SOUTH%20INDIAN/2024/Marco%20(2024)%20CAMRip%20Dual%20Audio.mkv
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAz8QyqgOzdkYQEHIuEO7svM-8Fud0a_SAqw&s"group-title="ACTION MOVIES",AGNI(2024)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTF2hweQZaDWc9KPLiJ2YbDUwGc54Xrrn9OJg&s"group-title="PUSHPA 2",PUSHPA 2 (2024)
+http://10.100.100.12/data1/MOVIE%20COLLECTION/SOUTH%20INDIAN/2024/Pushpa:%20The%20Rule%20-%20Part%202%20(2024)%20HDRip.mkv
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRga9bYtd170ccb1RqaeauQrBq7Q7klBcxGJg&s"group-title="Zero Se Restart (2024)",Zero Se Restart (2024)
+http://10.100.100.12/data1/MOVIE%20COLLECTION/HINDI/2024/Zero%20Se%20Restart%20(2024).mkv
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAz8QyqgOzdkYQEHIuEO7svM-8Fud0a_SAqw&s"group-title="AGNI",AGNI(2024)
 http://10.100.100.12/data1/MOVIE%20COLLECTION/HINDI/2024/Agni%20(2024).mkv
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ8CVRZzSFbRgVXt5r7QrjUvOA1uRUzK1Sfg&s"group-title="COMEDY MOVIES",Vicky Vidya Ka Woh Wala Video (2024)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ8CVRZzSFbRgVXt5r7QrjUvOA1uRUzK1Sfg&s"group-title="Vicky Vidya Ka Woh Wala Video",Vicky Vidya Ka Woh Wala Video (2024)
 http://10.100.100.12/data1/MOVIE%20COLLECTION/ENGLISH/2024/Gladiator%20II%20(2024).mkv
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ8CVRZzSFbRgVXt5r7QrjUvOA1uRUzK1Sfg&s"group-title="COMEDY",BABU
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ8CVRZzSFbRgVXt5r7QrjUvOA1uRUzK1Sfg&s"group-title="BABU",BABU
 http://10.100.100.12/data1/MOVIE%20COLLECTION/SOUTH%20INDIAN/2024/Babu%20(2024).mkv
 
-EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv39ZrglimGEz9K_ZBdQ8D2HtRhRf3iNHNew&s"group-title="ACTON",KANGUVA (2024)
+EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv39ZrglimGEz9K_ZBdQ8D2HtRhRf3iNHNew&s"group-title="KANGUVA",KANGUVA (2024)
 http://10.100.100.12/data1/MOVIE%20COLLECTION/SOUTH%20INDIAN/2024/Kanguva%20(2024)%20Dual%20Audio.mkv
